@@ -37,9 +37,12 @@ def fetch_airdrops():
     """从 alpha123.uk 拉取空投数据"""
     try:
         resp = scraper.get(API_URL, timeout=30)
+        print(f"DEBUG: HTTP {resp.status_code}, length={len(resp.text)}", file=sys.stderr)
         resp.raise_for_status()
         data = resp.json()
-        return data.get("airdrops", [])
+        airdrops = data.get("airdrops", [])
+        print(f"DEBUG: got {len(airdrops)} airdrops", file=sys.stderr)
+        return airdrops
     except Exception as e:
         print(f"ERROR: 获取数据失败: {e}", file=sys.stderr)
         return None
