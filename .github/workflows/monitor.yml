@@ -2,7 +2,7 @@ name: Binance Alpha Airdrop Monitor
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch: {}
 
 permissions:
