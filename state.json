@@ -9,5 +9,16 @@
     "type": "grab",
     "phase": 1,
     "completed": ""
+  },
+  "GUA_2026-02-24_P1": {
+    "token": "GUA",
+    "name": "GUA",
+    "date": "2026-02-24",
+    "time": "18:00",
+    "amount": "200",
+    "points": 256,
+    "type": "grab",
+    "phase": 1,
+    "completed": true
   }
 }
