@@ -53,5 +53,16 @@
     "type": "tge",
     "phase": 1,
     "completed": false
+  },
+  "ROBO_2026-02-27_P1": {
+    "token": "ROBO",
+    "name": "Fabric Protocol",
+    "date": "2026-02-27",
+    "time": "",
+    "amount": "",
+    "points": "",
+    "type": "",
+    "phase": 1,
+    "completed": ""
   }
 }
