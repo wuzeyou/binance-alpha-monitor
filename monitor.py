@@ -79,7 +79,7 @@ def normalize(value, field=""):
         return "是" if value else "否"
     s = str(value).strip()
     if s.lower() in ["-", "none", "null", ""]:
-        return ""
+        return "否" if field == "completed" else ""
     if s.lower() == "false":
         return "否"
     if s.lower() == "true":
