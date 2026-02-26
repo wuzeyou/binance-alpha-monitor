@@ -106,8 +106,14 @@ def detect_changes(old, new):
 
 def snapshot(airdrop):
     """提取存储快照"""
-    return {k: airdrop.get(k, "") for k in
-            ["token", "name", "date", "time", "amount", "points", "type", "phase", "completed"]}
+    result = {}
+    for k in ["token", "name", "date", "time", "amount", "points", "type", "phase", "completed"]:
+        v = airdrop.get(k)
+        # 对于 completed 字段，None/缺失时默认为 False
+        if k == "completed" and v is None:
+            v = False
+        result[k] = v if v is not None else ""
+    return result
 
 
 def type_label(t):
