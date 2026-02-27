@@ -59,9 +59,9 @@
     "name": "Fabric Protocol",
     "date": "2026-02-27",
     "time": "16:00",
-    "amount": "",
-    "points": "",
-    "type": "",
+    "amount": "888",
+    "points": "245",
+    "type": "grab",
     "phase": 1,
     "completed": false
   }
