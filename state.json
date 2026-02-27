@@ -63,6 +63,6 @@
     "points": "245",
     "type": "grab",
     "phase": 1,
-    "completed": false
+    "completed": true
   }
 }
