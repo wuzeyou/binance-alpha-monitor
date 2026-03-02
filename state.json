@@ -72,7 +72,7 @@
     "time": "19:00",
     "amount": "",
     "points": "",
-    "type": "warning",
+    "type": "grab",
     "phase": 1,
     "completed": false
   }
