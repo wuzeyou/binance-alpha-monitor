@@ -70,8 +70,8 @@
     "name": "OPINION",
     "date": "2026-03-05",
     "time": "19:00",
-    "amount": "",
-    "points": "",
+    "amount": "100",
+    "points": "235",
     "type": "grab",
     "phase": 1,
     "completed": false
