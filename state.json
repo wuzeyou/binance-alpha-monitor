@@ -108,5 +108,16 @@
     "type": "grab",
     "phase": 1,
     "completed": false
+  },
+  "MAGMA_2026-03-06_P1": {
+    "token": "MAGMA",
+    "name": "Magma Finance",
+    "date": "2026-03-06",
+    "time": "18:30",
+    "amount": "320",
+    "points": 241,
+    "type": "grab",
+    "phase": 1,
+    "completed": true
   }
 }
