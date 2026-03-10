@@ -141,5 +141,16 @@
     "type": "grab",
     "phase": 1,
     "completed": false
+  },
+  "LAB_2026-03-10_P1": {
+    "token": "LAB",
+    "name": "LAB",
+    "date": "2026-03-10",
+    "time": "18:00",
+    "amount": "207",
+    "points": 241,
+    "type": "grab",
+    "phase": 1,
+    "completed": false
   }
 }
