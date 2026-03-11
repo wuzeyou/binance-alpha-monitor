@@ -126,10 +126,10 @@
     "date": "2026-03-11",
     "time": "16:00",
     "amount": "1000",
-    "points": "241",
+    "points": 241,
     "type": "grab",
     "phase": 1,
-    "completed": false
+    "completed": true
   },
   "_2026-03-10_P1": {
     "token": "",
