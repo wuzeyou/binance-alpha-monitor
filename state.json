@@ -158,11 +158,11 @@
     "name": "Unitas Labs",
     "date": "2026-03-13",
     "time": "16:00",
-    "amount": 506.68,
+    "amount": "327",
     "points": 226,
     "type": "tge",
     "phase": 1,
-    "completed": false
+    "completed": true
   },
   "KAT_2026-03-16_P1": {
     "token": "KAT",
