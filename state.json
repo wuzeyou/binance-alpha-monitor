@@ -158,8 +158,8 @@
     "name": "Unitas Labs",
     "date": "2026-03-13",
     "time": "16:00",
-    "amount": "",
-    "points": "226",
+    "amount": "10000000",
+    "points": 226,
     "type": "tge",
     "phase": 1,
     "completed": false
