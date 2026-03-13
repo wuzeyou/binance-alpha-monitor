@@ -163,5 +163,16 @@
     "type": "tge",
     "phase": 1,
     "completed": false
+  },
+  "KAT_2026-03-16_P1": {
+    "token": "KAT",
+    "name": "Katana",
+    "date": "2026-03-16",
+    "time": "20:00",
+    "amount": "",
+    "points": "",
+    "type": "tge",
+    "phase": 1,
+    "completed": false
   }
 }
