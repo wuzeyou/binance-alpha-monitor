@@ -185,5 +185,27 @@
     "type": "grab",
     "phase": 1,
     "completed": false
+  },
+  "IN_2026-03-19_P1": {
+    "token": "IN",
+    "name": "IN",
+    "date": "2026-03-19",
+    "time": "18:00",
+    "amount": "470",
+    "points": "240",
+    "type": "grab",
+    "phase": 1,
+    "completed": true
+  },
+  "BLUAI_2026-03-19_P1": {
+    "token": "BLUAI",
+    "name": "BLUAI",
+    "date": "2026-03-19",
+    "time": "18:00",
+    "amount": "5000",
+    "points": "240",
+    "type": "grab",
+    "phase": 1,
+    "completed": true
   }
 }
