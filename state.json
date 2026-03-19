@@ -174,5 +174,16 @@
     "type": "tge",
     "phase": 1,
     "completed": false
+  },
+  "_2026-03-19_P1": {
+    "token": "",
+    "name": "Alpha Box",
+    "date": "2026-03-19",
+    "time": "18:00",
+    "amount": "",
+    "points": 240,
+    "type": "grab",
+    "phase": 1,
+    "completed": false
   }
 }
