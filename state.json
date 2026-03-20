@@ -207,5 +207,16 @@
     "type": "grab",
     "phase": 1,
     "completed": true
+  },
+  "CYS_2026-03-20_P1": {
+    "token": "CYS",
+    "name": "CYS",
+    "date": "2026-03-20",
+    "time": "16:00",
+    "amount": "60",
+    "points": 240,
+    "type": "grab",
+    "phase": 1,
+    "completed": true
   }
 }
