@@ -229,5 +229,27 @@
     "type": "grab",
     "phase": 1,
     "completed": false
+  },
+  "AIA_2026-03-24_P1": {
+    "token": "AIA",
+    "name": "AIA",
+    "date": "2026-03-24",
+    "time": "18:00",
+    "amount": "335",
+    "points": 251,
+    "type": "grab",
+    "phase": 1,
+    "completed": true
+  },
+  "SIGMA_2026-03-24_P1": {
+    "token": "SIGMA",
+    "name": "Sigma",
+    "date": "2026-03-24",
+    "time": "18:00",
+    "amount": "375",
+    "points": 251,
+    "type": "grab",
+    "phase": 1,
+    "completed": true
   }
 }
