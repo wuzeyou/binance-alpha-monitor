@@ -251,5 +251,16 @@
     "type": "grab",
     "phase": 1,
     "completed": true
+  },
+  "PRL_2026-03-25_P1": {
+    "token": "PRL",
+    "name": "Perle",
+    "date": "2026-03-25",
+    "time": "16:00",
+    "amount": 8863.21,
+    "points": 242,
+    "type": "tge",
+    "phase": 1,
+    "completed": false
   }
 }
